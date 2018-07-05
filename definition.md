@@ -47,8 +47,8 @@ Please add description for each columns/attribute (R:required, O:optional)
     * `iso_add:+N`. Same explanation applied.
     * `iso_snp_seed`: when affected nucleotides are between [2-7].
     * `iso_snp_central_offset`: when affected nucleotides is at position [8].
-    * `iso_snp_central`: when affected nucleotides are betweem [9-12].
-    * `iso_snp_central_supp`: when affected nucleotides are betweem [13-17].
+    * `iso_snp_central`: when affected nucleotides are between [9-12].
+    * `iso_snp_central_supp`: when affected nucleotides are between [13-17].
     * `iso_snp`: anything else.
   * (O) Changes (optional): similar to previous one but indicating the nucleotides being changed.
     * additions are in capital case
